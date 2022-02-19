@@ -1,0 +1,13 @@
+.venv
+.vscode
+.clang-format
+a.out*
+input.txt
+output.txt
+ac-library
+atcoder
+ahc
+test
+atcoder.ipynb
+test.cpp
+contest.acc.json
